@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PracticaCalificada01_Activities</string>
+    <string name="ingrese_el_peso">Enter weight</string>
+    <string name="ingrese_la_talla">Enter size</string>
+    <string name="calcular">Calculate</string>
+    <string name="calculadora_imc">BMI calculator</string>
+    <string name="desc_1">Your BMI is</string>
+    <string name="texto_bajo"> indicating that your weight is in the Underweight category for adults of the same height.
+                For his height, a normal weight would range from 74 to 99.6 kilograms.</string>
+    <string name="texto_normal"> indicating that your weight is in the Normal category for adults of the same height.
+                For his height, a normal weight would range from 74 to 99.6 kilograms.
+                Maintaining a healthy weight can reduce the risk of chronic diseases associated with being overweight and obese.</string>
+    <string name="texto_sobrepeso">
+indicating that your weight is in the Overweight category for adults of the same height.
+                For his height, a normal weight would range from 74 to 99.6 kilograms.
+                People who are overweight or obese are at higher risk for chronic conditions, such as high blood pressure, diabetes, and high cholesterol.
+                Anyone who is overweight should try to avoid gaining more weight. Also, if you are overweight with other
+                risk factors (such as high LDL cholesterol levels,
+                low HDL cholesterol or high blood pressure), you should try to lose weight. Even a
+                small decrease (as little as 10% of your current weight) can help lower the risk of
+                diseases. Talk with your healthcare provider to establish proper ways to lose weight.</string>
+    <string name="texto_obesidad"> which indicates that his weight is in the Obese category for adults of the same height.
+                For his height, a normal weight would range from 74 to 99.6 kilograms.
+                People who are overweight or obese are at higher risk for chronic conditions, such as high blood pressure, diabetes, and high cholesterol.
+                Anyone who is overweight should try to avoid gaining more weight. Also, if you have
+                being overweight along with other risk factors (such as high levels of LDL cholesterol, low levels of
+                HDL cholesterol or high blood pressure), you should try to lose weight. Even a small decrease
+                (as little as 10% of your current weight) can help lower your risk of disease. Talk to your care provider
+                to establish proper ways to lose weight.</string>
+    <string name="kg">kg.</string>
+    <string name="m">m.</string>
+
+</resources>

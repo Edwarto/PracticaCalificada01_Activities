@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PracticaCalificada01_Activities</string>
+    <string name="ingrese_el_peso">Ingrese el peso</string>
+    <string name="ingrese_la_talla">Ingrese la talla</string>
+    <string name="calcular">Calcular</string>
+    <string name="calculadora_imc">Calculadora IMC</string>
+    <string name="desc_1">Su IMC es </string>
+    <string name="texto_bajo"> lo que indica que su peso está en la categoría de Bajo peso para adultos de su misma estatura.
+                Para su estatura, un peso normal variaría entre 74  a  99.6 kilogramos.</string>
+    <string name="texto_normal"> lo que indica que su peso está en la categoría Normal para adultos de su misma estatura.
+                Para su estatura, un peso normal variaría entre 74  a  99.6 kilogramos.
+                Mantener un peso saludable puede reducir el riesgo de enfermedades crónicas asociadas al sobrepeso y la obesidad.</string>
+    <string name="texto_sobrepeso"> lo que indica que su peso está en la categoría de Sobrepeso para adultos de su misma estatura.
+                Para su estatura, un peso normal variaría entre 74 a 99.6 kilogramos.
+                Las personas que tienen sobrepeso o son obesas tienen un mayor riesgo de afecciones crónicas, tales como hipertensión arterial, diabetes y colesterol alto.
+                Toda persona que tenga sobrepeso debería tratar de evitar ganar más peso. Además, si usted tiene sobrepeso junto con otros
+                factores de riesgo (como niveles altos de colesterol LDL,
+                niveles bajos de colesterol HDL o hipertensión arterial), debería tratar de perder peso. Incluso una
+                pequeña disminución (tan solo 10 % de su peso actual) puede ayudar a disminuir el riesgo de
+                enfermedades. Hable con su proveedor de atención médica para establecer maneras adecuadas de perder peso.</string>
+    <string name="texto_obesidad"> lo que indica que su peso está en la categoría de Obeso para adultos de su misma estatura.
+                Para su estatura, un peso normal variaría entre 74 a 99.6 kilogramos.
+                Las personas que tienen sobrepeso o son obesas tienen un mayor riesgo de afecciones crónicas, tales como hipertensión arterial, diabetes y colesterol alto.
+                Toda persona que tenga sobrepeso debería tratar de evitar ganar más peso. Además, si usted tiene
+                sobrepeso junto con otros factores de riesgo (como niveles altos de colesterol LDL, niveles bajos de
+                colesterol HDL o hipertensión arterial), debería tratar de perder peso. Incluso una pequeña disminución
+                (tan solo 10 % de su peso actual) puede ayudar a disminuir el riesgo de enfermedades. Hable con su proveedor de atención
+                médica para establecer maneras adecuadas de perder peso.</string>
+    <string name="kg">kg.</string>
+    <string name="m">m.</string>
+
+</resources>
